@@ -1,0 +1,1 @@
+Open this folder in Android Studio or upload all files (including .github) to a GitHub repository to auto-build your APK.
